@@ -1,4 +1,4 @@
-# Reproducing the error 
+# Reproducing the permission denied error 
 
 Clone this repo and run `docker-compose up`
 
